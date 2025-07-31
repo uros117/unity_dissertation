@@ -73,9 +73,9 @@ According to the comparative study:
 ## Related Repositories
 
 This implementation is part of a larger comparative study. See also:
-- [Bevy Implementation](../bevy_dissertation)
-- [JavaFX Implementation](../javafx_dissertation)
-- [Main Repository with Thesis](../3d-game-development-comparison)
+- [Bevy Implementation](https://github.com/uros117/bevy_dissertation)
+- [JavaFX Implementation](https://github.com/uros117/javafx_dissertation)
+- [Main Repository with Thesis](https://github.com/uros117/3d-game-development-comparison)
 
 ## Academic Context
 
