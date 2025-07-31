@@ -73,8 +73,8 @@ According to the comparative study:
 ## Related Repositories
 
 This implementation is part of a larger comparative study. See also:
-- [Bevy Implementation](../bevy-labyrinth-game)
-- [JavaFX Implementation](../javafx-labyrinth-game)
+- [Bevy Implementation](../bevy_dissertation)
+- [JavaFX Implementation](../javafx_dissertation)
 - [Main Repository with Thesis](../3d-game-development-comparison)
 
 ## Academic Context
